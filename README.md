@@ -27,6 +27,7 @@ Hyderabad is the capital of southern India's Telangana state. A major center for
 | vizag | RK beach | 8hours |
 |Ongole | gandhi park | 6hours |
 | chennai | marina Beach | 7hours |
+| vijayawada| duragamma temple| 5hours |
 
  ---
  # quotes
