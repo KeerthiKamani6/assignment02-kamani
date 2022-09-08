@@ -13,3 +13,40 @@ The American Museum of Natural History  is a natural history museum on the Upper
  * mc donalds
  * thai spoon
  * pist lake
+
+ **[Link to Aboutme](Aboutme.md)**
+ ****
+
+
+ # cities which i recommend to visit
+
+Hyderabad is the capital of southern India's Telangana state. A major center for the technology industry, it's home to many upscale restaurants and shops. Its historic sites include Golconda Fort, a former diamond-trading center that was once the Qutb Shahi dynastic capital.
+
+| Name of the City | Important Location | Amount of time spent |
+--- | --- | ---|
+| vizag | RK beach | 8hours |
+|Ongole | gandhi park | 6hours |
+| chennai | marina Beach | 7hours |
+
+ ---
+ # quotes
+ >Never let the fear of striking out keep you from playing the game.
+ >> Time is money.
+
+ > “Be yourself; everyone else is already taken.”
+― 
+
+ >>Oscar Wilde
+
+ ---
+ # Fencing
+ > JavaScript - Get Portion of URL Path
+ >> https://stackoverflow.com/questions/6944744/javascript-get-portion-of-url-path
+ 
+ var newPathname = "";
+for (i = 0; i < pathArray.length; i++) {
+  newPathname += "/";
+  newPathname += pathArray[i];
+}
+
+**[Link to code snippet](https://css-tricks.com/snippets/javascript/get-url-and-url-parts-in-javascript/)**
