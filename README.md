@@ -42,11 +42,12 @@ Hyderabad is the capital of southern India's Telangana state. A major center for
  # Fencing
  > JavaScript - Get Portion of URL Path
  >> https://stackoverflow.com/questions/6944744/javascript-get-portion-of-url-path
- 
+ ```
  var newPathname = "";
 for (i = 0; i < pathArray.length; i++) {
   newPathname += "/";
   newPathname += pathArray[i];
 }
+```
 
 **[Link to code snippet](https://css-tricks.com/snippets/javascript/get-url-and-url-parts-in-javascript/)**
